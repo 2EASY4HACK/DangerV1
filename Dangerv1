@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 unset LD_PRELOAD
-dir=$HOME/Tmux-Bunch
+dir=$HOME/DangerV1
 if  [ $dir != $HOME/DangerV1 ]
 	then
 		dir=$HOME/DangerV1
